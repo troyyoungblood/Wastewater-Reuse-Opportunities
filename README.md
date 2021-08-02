@@ -4,11 +4,13 @@
 <br>
 <p>Harris county and surrounding counties are assigned to Region H of the regional planning areas.</p>  
 <br>
-<p>This evaluation briefly introduces information from the most recent Region H plan and identifies a potential missed opportunity for wastewater resuse.  The plan presented does not specifically identify wastewater generated from general industry in Harris and Brazoria counties as a source of reuse.  The wastewater is currently being generated and in most cases is shipped offsite in a tanker or drums, depending on the volume generated at the site. The section of the state regulations that regulates, and potential limits, reuse is identified in volume 1, Section 3.4   30 TAC, 210.54  https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=N&p_rloc=98216&p_tloc=&p_ploc=1&pg=6&p_tac=&ti=30&pt=1&ch=210&rl=53 identifies waste which are not considered elgible for coverage under the reuse regulations. There are opportunities for treatment would could move some of these wastes into the candidate category and those opportunities should be explored. </p> 
-
-
+<p>This evaluation briefly introduces information from the most recent Region H plan and identifies a potential missed opportunity for wastewater resuse.  The plan presented does not specifically identify wastewater generated from general industry in Harris and Brazoria counties as a source of reuse.  The wastewater is currently being generated and in most cases is shipped offsite in a tanker or drums, depending on the volume generated at the site. The section of the state regulations that regulates, and potential limits, reuse is identified in volume 1, Section 3.4.
+  
+<img src="images/restrictions.PNG" width = "500"><br> 
+  
+<a href="https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=P&p_rloc=98217&p_tloc=&p_ploc=1&pg=7&p_tac=&ti=30&pt=1&ch=210&rl=53">30 TAC 210.54</a> identifies waste which are not considered elgible for coverage under the reuse regulations. There are opportunities for treatment would could move some of these wastes into the candidate category and those opportunities should be explored. </p> 
 <br>
-<p>Link to TWDB plans.  Scroll down to Region H for access to Volume 1 and 2. : https://www.twdb.texas.gov/waterplanning/rwp/plans/2021/</p>
+<p>Link to TWDB plans.  Scroll down to Region H for access to Volume 1 and 2. : <a href="https://www.twdb.texas.gov/waterplanning/rwp/plans/2021/">Region H Plan</a></p>
 <br>
 <p>Introduction of the Region H regional plan, Volume 1</p>
 <br>
