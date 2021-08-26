@@ -8,7 +8,7 @@
 
 <p>Reviewing the bar chart below for waste generation in 2020, a conservative estimate is 2,000 ac-ft/year of Class 1 nonhazardous industrial wastewater should be available for reuse with minimal processing from the Harris and Brazoria county areas.  An additional 1,000 ac-ft/year of hazardous wastewater could be available with review and minor treatment. In 2020, 266 ac-ft/yr of wastewater that was hazardous at the point of generation and subsequently managed was released by permit to either the waters of the state (example creek or river) or a publically owned treatment works (POTW).   While the quantity available today is only 4.5% of the estimated overall supply 40+ years from now, finding opportunities for use of the water by 2030 could add a total of 90,000 ac-ft from 2030 to 2060 of water back into the system while the larger project is being finished.</p>
 <br>
-<p>Charts representing wastewater generation and possible reuse opportunities.  Link to Tableau and backup information: <a href="https://public.tableau.com/app/profile/troy.youngblood/viz/TX_Waste_Gen_Review/Story2?publish=yes">Wastewater_reuse_opportunities</a><br>
+<p>Charts representing wastewater generation and possible reuse opportunities.  Link to Tableau and backup information: <a href="https://public.tableau.com/views/TX_Waste_Gen_Review/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Wastewater_reuse_opportunities</a><br>
 <br>
 <br>
 
