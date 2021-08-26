@@ -47,23 +47,35 @@ The wastewater is currently being generated and in most cases is shipped offsite
 <p>Proposed wastewater reuse distribution map</p>
 <br>
 <img src="images/image5_usagemap.PNG" width = "675"><br>
-
-
-
+<br>
+<p>Code snips</p>
+<p>Example of importing TCEQ annual waste summary data into python</p>
+<br>
 <img src="images/import_aws_example.PNG" width = "675"><br>
-
+<br>
+<p>Merging individual years into single dataframe</p>
+<br>
 <img src="images/concate_awsfiles.PNG" width = "675"><br>
-
+<br>
+<p>Importing TCEQ facility data into Python</p>
+<br>
 <img src="images/import_facilities.PNG" width = "675"><br>
-
+<br>
+<p>Importing County data to address data gaps in TCEQ facility data</p>
+<br>
 <img src="images/import_county_info.PNG" width = "675"><br>
-
+<br>
+<p>Merging overall annual waste summary dataframe with facility dataframe</p>
+<br>
 <img src="images/merge_aws_fac.PNG" width = "675"><br>
-
+<br>
+<p> Following snips are some data cleanup steps - removing lines of data that had NA under submitted or waste handled</p>
 <img src="images/submitted_aws.PNG" width = "675"><br>
-
+<br>
 <img src="images/handled_aws.PNG" width = "675"><br>
-
+<br>
+<p>Next two snips show activites to address incorrect/missing county name information</p>
+<br>
 <img src="images/county_na.PNG" width = "675"><br>
 
 <img src="images/county_update.PNG" width = "675"><br>
